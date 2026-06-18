@@ -8,7 +8,7 @@ EXPLORATORY DATA ANALYSIS (EDA) REPORT
 
 ### project overview
 This data analysis project contains historical olympic records of different athelete ( athelete name, sex, age, height, weight, country, medals won)  in different sports. The objective of this analysis is to assess data quality, handle inconsistent formatting, missing and duplicate records while also providing insight into athlete performance over the year.
-
+![Country performance dashboard](CountryPerformanceDashboard.jpg)![Olympic insights dashboard](OlympicInsightDashboard.jpg)![athlete performance dashboard](AthletePerformanceDashboard.jpg)
 ### DATASET OVERVIEW
 The primary dataset used for this analysis is "Olympic dataset"  file which contains detailed information about each athelete, games played and medals won. It is used to analyse their performance. Below is a detailed explanation of each column:
 
